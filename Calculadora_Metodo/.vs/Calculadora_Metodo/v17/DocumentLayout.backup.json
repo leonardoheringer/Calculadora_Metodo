@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|c:\\users\\alunos\\documents\\informatica tarde\\leonardo heringer\\calculadora_metodo\\calculadora_metodo\\calculadora_metodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|solutionrelative:calculadora_metodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|c:\\users\\alunos\\documents\\informatica tarde\\leonardo heringer\\calculadora_metodo\\calculadora_metodo\\calculadora_metodo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|solutionrelative:calculadora_metodo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|c:\\users\\alunos\\documents\\informatica tarde\\leonardo heringer\\calculadora_metodo\\calculadora_metodo\\calculadora_metodo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|solutionrelative:calculadora_metodo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|c:\\users\\alunos\\documents\\informatica tarde\\leonardo heringer\\calculadora_metodo\\calculadora_metodo\\calculadora_metodo\\calculadora_metodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F84D75B-1697-48F0-897F-178E2B78F2DC}|Calculadora_Metodo\\Calculadora_Metodo.csproj|solutionrelative:calculadora_metodo\\calculadora_metodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora_Metodo.csproj",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo.csproj",
+              "RelativeDocumentMoniker": "Calculadora_Metodo\\Calculadora_Metodo.csproj",
+              "ToolTip": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo.csproj",
+              "RelativeToolTip": "Calculadora_Metodo\\Calculadora_Metodo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T16:52:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora_Metodo\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora_Metodo\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:36:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Menu.cs",
+              "RelativeDocumentMoniker": "Calculadora_Metodo\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Menu.cs",
+              "RelativeToolTip": "Calculadora_Metodo\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:36:17.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora_Metodo\\Program.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\Calculadora_Metodo\\Calculadora_Metodo\\Calculadora_Metodo\\Program.cs",
+              "RelativeToolTip": "Calculadora_Metodo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:35:18.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
